@@ -1,0 +1,12 @@
+D:\Dot Net\dotnet\Day2\2ndday\Billing\bin\Debug\net7.0\Billing.deps.json
+D:\Dot Net\dotnet\Day2\2ndday\Billing\bin\Debug\net7.0\Billing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Billing\bin\Debug\net7.0\Billing.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.Csproj.AssemblyReference.cache
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.AssemblyInfoInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.AssemblyInfo.cs
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.Csproj.CoreCompileInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\refint\Billing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\Billing.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Billing\obj\Debug\net7.0\ref\Billing.dll

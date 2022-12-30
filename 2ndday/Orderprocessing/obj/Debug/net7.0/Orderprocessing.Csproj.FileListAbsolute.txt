@@ -1,0 +1,12 @@
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\bin\Debug\net7.0\Orderprocessing.deps.json
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\bin\Debug\net7.0\Orderprocessing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\bin\Debug\net7.0\Orderprocessing.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.Csproj.AssemblyReference.cache
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.AssemblyInfoInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.AssemblyInfo.cs
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.Csproj.CoreCompileInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\refint\Orderprocessing.dll
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\Orderprocessing.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Orderprocessing\obj\Debug\net7.0\ref\Orderprocessing.dll

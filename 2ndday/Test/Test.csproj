@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Billing\Billing.Csproj" />
+    <ProjectReference Include="..\Catalog\Catalog.Csproj" />
+    <ProjectReference Include="..\CRM\CRM.Csproj" />
+    <ProjectReference Include="..\HR\HR.Csproj" />
+    <ProjectReference Include="..\Membership\Membership.Csproj" />
+    <ProjectReference Include="..\Orderprocessing\Orderprocessing.Csproj" />
+    <ProjectReference Include="..\Shipment\Shipment.Csproj" />
+    <ProjectReference Include="..\Shopingcart\ShopingCart.Csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,222 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Billing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Billing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Billing.dll": {}
+        }
+      },
+      "Catalog/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Catalog.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.dll": {}
+        }
+      },
+      "CRM/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CRM.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CRM.dll": {}
+        }
+      },
+      "HR/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/HR.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HR.dll": {}
+        }
+      },
+      "Membership/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Membership.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Membership.dll": {}
+        }
+      },
+      "Orderprocessing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Orderprocessing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Orderprocessing.dll": {}
+        }
+      },
+      "Shipment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Shipment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shipment.dll": {}
+        }
+      },
+      "ShopingCart/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ShopingCart.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopingCart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Billing/1.0.0": {
+      "type": "project",
+      "path": "../Billing/Billing.Csproj",
+      "msbuildProject": "../Billing/Billing.Csproj"
+    },
+    "Catalog/1.0.0": {
+      "type": "project",
+      "path": "../Catalog/Catalog.Csproj",
+      "msbuildProject": "../Catalog/Catalog.Csproj"
+    },
+    "CRM/1.0.0": {
+      "type": "project",
+      "path": "../CRM/CRM.Csproj",
+      "msbuildProject": "../CRM/CRM.Csproj"
+    },
+    "HR/1.0.0": {
+      "type": "project",
+      "path": "../HR/HR.Csproj",
+      "msbuildProject": "../HR/HR.Csproj"
+    },
+    "Membership/1.0.0": {
+      "type": "project",
+      "path": "../Membership/Membership.Csproj",
+      "msbuildProject": "../Membership/Membership.Csproj"
+    },
+    "Orderprocessing/1.0.0": {
+      "type": "project",
+      "path": "../Orderprocessing/Orderprocessing.Csproj",
+      "msbuildProject": "../Orderprocessing/Orderprocessing.Csproj"
+    },
+    "Shipment/1.0.0": {
+      "type": "project",
+      "path": "../Shipment/Shipment.Csproj",
+      "msbuildProject": "../Shipment/Shipment.Csproj"
+    },
+    "ShopingCart/1.0.0": {
+      "type": "project",
+      "path": "../Shopingcart/ShopingCart.Csproj",
+      "msbuildProject": "../Shopingcart/ShopingCart.Csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Billing >= 1.0.0",
+      "CRM >= 1.0.0",
+      "Catalog >= 1.0.0",
+      "HR >= 1.0.0",
+      "Membership >= 1.0.0",
+      "Orderprocessing >= 1.0.0",
+      "Shipment >= 1.0.0",
+      "ShopingCart >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\saura\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Test\\Test.csproj",
+      "projectName": "Test",
+      "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\saura\\.nuget\\packages\\",
+      "outputPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\saura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Billing\\Billing.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Billing\\Billing.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Catalog\\Catalog.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Catalog\\Catalog.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\CRM\\CRM.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\CRM\\CRM.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\HR\\HR.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\HR\\HR.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Membership\\Membership.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Membership\\Membership.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Orderprocessing\\Orderprocessing.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Orderprocessing\\Orderprocessing.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Shipment\\Shipment.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Shipment\\Shipment.Csproj"
+            },
+            "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Shopingcart\\ShopingCart.Csproj": {
+              "projectPath": "D:\\Dot Net\\dotnet\\Day2\\2ndday\\Shopingcart\\ShopingCart.Csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

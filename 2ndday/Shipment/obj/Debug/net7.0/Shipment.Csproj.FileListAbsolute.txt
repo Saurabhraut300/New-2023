@@ -1,0 +1,12 @@
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\bin\Debug\net7.0\Shipment.deps.json
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\bin\Debug\net7.0\Shipment.dll
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\bin\Debug\net7.0\Shipment.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.Csproj.AssemblyReference.cache
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfoInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfo.cs
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.Csproj.CoreCompileInputs.cache
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.dll
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\refint\Shipment.dll
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\Shipment.pdb
+D:\Dot Net\dotnet\Day2\2ndday\Shipment\obj\Debug\net7.0\ref\Shipment.dll
